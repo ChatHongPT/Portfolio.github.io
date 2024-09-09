@@ -52,8 +52,6 @@ education:
     institution: 전북대학교 IT 정보공학과
     date_start: 2020-03-01
     date_end: 2026-03-01
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -65,45 +63,14 @@ education:
       Team Project:
       -저사양 환경에서 저비용으로 BGP, XDP를 활용한 대용량 트래픽 분산 및 악성 패킷 필터링 솔루션 개발[WhiteHat School 팀 프로젝트 Top 5 선정]
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+  - position: Undergraduate-lever researcher
+    company_name: BCG LAB
+    company_url: 'https://sites.google.com/view/bcg-lab/main'
+    company_logo: '![alt text](image.png)'
+    date_start: 2023-12-01
+    date_end: 2026-03-01
+   
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -113,71 +80,46 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: C
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+      - name: JS
         description: ''
         percent: 80
-        icon: camera
+        icon: circle-stack
+  
 
 languages:
   - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
-
+    percent: 80
+ 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+  - title: K-HACKATHON 11(Aplication)
+    url: https://csai.jbnu.ac.kr/csai/29105/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGY3NhaSUyRjQ5MjclMkYzMTgxNjAlMkZhcnRjbFZpZXcuZG8lM0ZwYWdlJTNEMSUyNnNyY2hDb2x1bW4lM0QlMjZzcmNoV3JkJTNEJTI2YmJzQ2xTZXElM0QlMjZiYnNPcGVuV3JkU2VxJTNEJTI2cmdzQmduZGVTdHIlM0QlMjZyZ3NFbmRkZVN0ciUzRCUyNmlzVmlld01pbmUlM0RmYWxzZSUyNnBhc3N3b3JkJTNEJTI2
+    date: '2023-11-02'
+    awarder: 우수상(한국콘텐츠학회장상)
+    icon: 과학기술정보통신부
+    
+  - title: AI 활용 아이디어 경진 대회
+    url: https://www.instagram.com/jeongmiseol/p/C23vm7kLqxN/?img_index=5
+    date: '2024-01-30'
+    awarder: 대상
+    icon: 제주지역선도대학육성사업단
+   
+  - title: Oasis Hackathon(Aplication)
+    url: https://www.msn.com/ko-kr/news/other/gicon-%EC%A0%9C5%ED%9A%8C-%EC%98%A4%EC%95%84%EC%8B%9C%EC%8A%A4-%ED%95%B4%EC%BB%A4%ED%86%A4-%EB%8C%80%ED%9A%8C-%EA%B0%9C%EC%B5%9C-%EC%84%B1%EB%A3%8C/ar-AA1py0aY?ocid=BingNewsSerp
+    date: '2024-08-26'
+    awarder: 최우수상
+    icon: 광주정보문화산업진흥원
+    
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+네트워크 및 클라우드 보안 분야에서 깊이 있는 연구를 진행하고 있습니다. 현재 화이트햇 스쿨과 Find The Gap 버그 헌팅과 같은 다양한 대외활동에 적극적으로 참여하며 보안 분야의 최신 동향과 기술을 습득하고 있습니다. 이러한 활동을 통해 실무 경험과 함께 보안에 대한 폭넓은 지식을 쌓아가고 있습니다.
+또한, 오아시스 해커톤과 K 해커톤과 같은 개발 대회에 참가하며 소프트웨어 개발에 대한 깊이 있는 이해를 추구하고 있습니다. 이와 같은 다양한 경험을 통해 네트워크 및 클라우드 보안과 개발 분야의 전문성을 동시에 갖추어가고 있으며, 계속해서 기술적 역량을 강화하고 있습니다.
