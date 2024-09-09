@@ -11,7 +11,7 @@ last_name: Hong Seok
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -31,42 +31,39 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:suk924600@naver.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  - icon: brands/facebook
+    url: https://www.facebook.com/profile.php?id=100008709304324
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/hongttochi/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/ChatHongPT
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/%ED%99%8D%EC%84%9D-%EC%B5%9C-089b23302/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Cloud 
+  - Network 
+  - Security
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Network Security Engineer
+    institution: 전북대학교 IT 정보공학과
+    date_start: 2020-03-01
+    date_end: -Ing
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: The 2nd trainee at WhiteHat School
+    institution: 한국정보기술연구원
+    date_start: 2024-03-01
+    date_end: 2024-09-26
     summary: |
-      GPA: 3.8/4.0
+      Team Project:
+      -저사양 환경에서 저비용으로 BGP, XDP를 활용한 대용량 트래픽 분산 및 악성 패킷 필터링 솔루션 개발(WhiteHat School 팀 프로젝트 Top 5 선정)
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
