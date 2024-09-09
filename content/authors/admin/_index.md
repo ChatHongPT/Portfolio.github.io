@@ -51,7 +51,7 @@ education:
   - area: Network Security Engineer
     institution: 전북대학교 IT 정보공학과
     date_start: 2020-03-01
-    date_end: -Ing
+    date_end: 2026-03-01
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
