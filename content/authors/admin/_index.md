@@ -63,7 +63,7 @@ education:
     date_end: 2024-09-26
     summary: |
       Team Project:
-      -저사양 환경에서 저비용으로 BGP, XDP를 활용한 대용량 트래픽 분산 및 악성 패킷 필터링 솔루션 개발(WhiteHat School 팀 프로젝트 Top 5 선정)
+      -저사양 환경에서 저비용으로 BGP, XDP를 활용한 대용량 트래픽 분산 및 악성 패킷 필터링 솔루션 개발[WhiteHat School 팀 프로젝트 Top 5 선정]
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
