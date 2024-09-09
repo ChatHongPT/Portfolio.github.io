@@ -67,7 +67,7 @@ work:
   - position: Undergraduate-lever researcher
     company_name: BCG LAB
     company_url: 'https://sites.google.com/view/bcg-lab/main'
-    company_logo: '![alt text](image.png)'
+    company_logo: 'https://github.com/ChatHongPT/Portfolio.github.io/blob/1eb4b0ffe28b9cc59d54c99fea151f65e8ed31b7/content/authors/admin/image.png'
     date_start: 2023-12-01
     date_end: 2026-03-01
    
@@ -83,11 +83,11 @@ skills:
       - name: C
         description: ''
         percent: 100
-        icon: chart-bar
+        icon: code-bracket
       - name: JS
         description: ''
         percent: 80
-        icon: circle-stack
+        icon: code-bracket
   
 
 languages:
