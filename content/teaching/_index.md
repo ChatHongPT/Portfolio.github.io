@@ -1,13 +1,13 @@
 ---
-title: Contact
+title: teaching
 date: 2022-10-24
 
 type: landing
 
 sections:
-  - block: contact
+  - block: teaching
     content:
-      title: Contact
+      title: teaching
       text: |-
         <br> <span style="font-size:95%">전북대학교 의료 AI 및 계산 수학 연구실 (Macs)의 학부연구생/석사 position에 관심 있으시면 아래로 연락주시면 감사드리겠습니다.</span> <br>
       email: ksl(at)jbnu.ac.kr
